@@ -1,5 +1,6 @@
 .principal{
 
   background-image: url("./img/pizza2.png");
-
+  background-repeat:no-repeat ;
+  background-size: contain;
 }
