@@ -1,3 +1,13 @@
+:root{
+
+  --cor-texto-principal: white
+  --cor-texto-secundaraio: grey
+  --botão-principal:blue
+  --botão-secundario:black
+
+}
+
+
 * {
 
    margin: 0;
@@ -15,7 +25,8 @@
   background-size: contain;
 }
 
-.principal { 
+.principal {.
+
   height: 100vh;
 
 }
