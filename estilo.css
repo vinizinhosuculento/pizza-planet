@@ -28,4 +28,5 @@
      color: var(--botão-secundario);
      padding: 1em;
      border-radius: 5px;
+     text-decoration: none;
 }
