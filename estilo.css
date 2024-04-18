@@ -14,6 +14,9 @@
 }
 
 
+body{
+  background-color: grey
+}
 .principal{
 
   background-image: url("./img/pizza2.png");
