@@ -30,7 +30,7 @@ body{
   display: grid;
   grid-template-columns: 50% 50%;
 }
-.container- -botão{
+.container--botão{
      background-color: var(--botão-principal);
      color: var(--botão-secundario);
      padding: 1em;
@@ -39,11 +39,11 @@ body{
 }
 
 
-.container --botão{
+.container--botão{
 
   margin: 0 2em 0;
 }
-.container --img{
+.container--img{
 
   margin: 0 2em 0;
 }
