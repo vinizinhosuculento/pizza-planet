@@ -47,3 +47,13 @@ body{
 
   margin: 0 2em 0;
 }
+.container--botão{
+background-color: var(--botão-principal);
+color: var(--cor-texto-principal);
+padding: 1em;
+border-radius: 5px;
+text-decoration: underline;
+display: block;
+margin-bottom: 2em;
+
+}
