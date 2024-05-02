@@ -30,30 +30,22 @@ body{
   display: grid;
   grid-template-columns: 50% 50%;
 }
-.container--botão{
+.container--botao{
      background-color: var(--botão-principal);
      color: var(--botão-secundario);
      padding: 1em;
      border-radius: 5px;
      text-decoration: none;
+     display: block;
+     margin-bottom: 2em;
 }
 
 
-.container--botão{
+.container--botao{
 
   margin: 0 2em 0;
 }
 .container--img{
 
   margin: 0 2em 0;
-}
-.container--botão{
-background-color: var(--botão-principal);
-color: var(--cor-texto-principal);
-padding: 1em;
-border-radius: 5px;
-text-decoration: underline;
-display: block;
-margin-bottom: 2em;
-
 }
