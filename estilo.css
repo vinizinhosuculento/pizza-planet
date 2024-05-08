@@ -2,7 +2,7 @@
 
   --cor-texto-principal: white;
   --cor-texto-secundaraio: grey;
-  --botão-principal:blue;
+  --botão-principal:white;
   --botão-secundario:black;
 
 }
@@ -39,10 +39,7 @@ body{
      display: block;
      margin-bottom: 2em;
 }
-.botao_secundario {
-  background-color: transparent;
-  border: 2px solid var(--branco-principal)
-}
+
 
 
 .container--botao{
