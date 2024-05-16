@@ -3,7 +3,7 @@
   --cor-texto-principal: white;
   --cor-texto-secundaraio:white;
   --botão-principal:white;
-  --botão-secundario:yellow;
+  --botão-secundario:black;
 
 }
 * {
@@ -48,7 +48,7 @@ body{
 }
 .container--img{
 
-  margin: 1em 0 2em 0;
+  margin: 4em 0 2em 0;
 }
  .secundario{
  align-items: center;
