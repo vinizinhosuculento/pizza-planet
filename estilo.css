@@ -36,6 +36,7 @@ body{
      padding: 1em;
      border-radius: 5px;
      text-decoration: none;
+     text-size-adjust: 40px;
      display: block;
      margin-bottom: 2em;
 }
